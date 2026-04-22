@@ -3,6 +3,9 @@
 **Team 31 · E403 · Track: XanhSM · AI Thực Chiến 2026**
 > Người dùng VinBus mất thời gian tìm tuyến bus vì giao diện bản đồ phức tạp — FlowBot trả lời bằng ngôn ngữ tự nhiên, gợi ý tuyến bus phù hợp tại Hà Nội trong vài giây.
 ---
+Worksheet: https://docs.google.com/spreadsheets/d/1bapJzd0D59__e5fWIwX2-HIv-UTFnCWJwhlbQHa-5Yg/edit?usp=sharing
+
+Phiếu chấm cho cách nhóm trong zone: https://docs.google.com/spreadsheets/d/1xIX4DNIA5TNNLyHP9KszWjYMETmDplnFZHZPD9SYu5I/edit?usp=sharing
 
 ## Thành viên
 
